@@ -6,7 +6,9 @@ Examples of bootstrap application in the R language
 * [bootstrap-sampling.ipynb](bootstrap-sampling.ipynb)
 * [tidymodels-comparison.ipynb](tidymodels-comparison.ipynb)
 
-Packages required: 
+These notebooks are in R, so will require an [R Kernel for Jupyter](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/).
+
+R libraries required: 
 * bootstrap-demo.ipynb: boot, data.table, dplyr, fmsb, foreign, ggplot2
 * bootstrap-sampling.ipynb: dplyr, ggplot2, reshape2
 * tidymodels-comparison.ipynb: boot, broom, dplyr, foreign, furrr, purrr, rsample, tibble
